@@ -1,5 +1,17 @@
 # Coding-Challenges
 
+# Week 3
+Week 3: 
+Write a function that takes an array of strings and prints them, one per line, in a rectangular frame. For example the list ["This", "is", "a", "frame", "print"] gets printed as:
+
+**********
+* This        *
+* is             *
+* a             *
+* frame     *
+* print       *
+**********
+
 
 # Week 5
 Week 5: 
